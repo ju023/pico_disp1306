@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "image_face_blink.h": "c"
+    },
+    "cmake.sourceDirectory": "C:/work/Pico/pico-ssd1306-main/example"
+}
